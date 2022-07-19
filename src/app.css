@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@300&family=Playfair+Display+SC:wght@700&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 16px;
+    font-weight: 300;
+    
+}
+
+body {
+    background: #ffffea;
+}
+
+.navbar-brand {
+    color: #00cecb!important;
+}
+
+.bg-nav {
+    background: #d8d8d8;
+}
+
+h1,
+h2,
+h3,
+h4, h5 {
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 700;
+    color: #00cecb;
+}
+
+p {
+    color: #ff5e5b;
+}
